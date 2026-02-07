@@ -1,4 +1,4 @@
-# st-testcase-template
+# Instructions
 Each student must implement:
 
 - **3 Selenium test cases**
